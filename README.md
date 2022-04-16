@@ -1,8 +1,11 @@
 # SOC-estimation-using-Extended-kalman-filter
 
 
-Run the main.mlx file to obtain view the results of EKF based SOC estimation \
-The EKF_SOC_Estimation.mlx consists of the SOC-estimation-using-Extended-kalman-filter algorithm 
+- Run the main.mlx file to obtain view the results of EKF based SOC estimation 
+- The EKF_SOC_Estimation.mlx consists of the SOC-estimation-using-Extended-kalman-filter algorithm 
+- The SOC-OCV.mat file consists of Open circuit voltage values with respect to SOC.
+- BatteryModel.mat file consists of the ewuivalent circuit parameters of the choosen battery (R0, R1, R2, C1, C2).These values are a function of temperature   and SOC 
+- 04-12-19_04.45 765_LA92_40degC_Turnigy_Graphene.mat file consists of battery test data
 
 INPUT REQUIRED :
 - Measured current values
