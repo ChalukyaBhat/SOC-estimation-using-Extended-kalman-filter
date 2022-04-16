@@ -62,3 +62,5 @@ where,
 # Aknowledgement
 
 F. Khanum, E. Louback, F. Duperly, C. Jenkins, P. J. Kollmeyer, and A. Emadi, “A Kalman Filter Based Battery State of Charge Estimation MATLAB Function,” in 2021 IEEE Transportation Electrification Conference & Expo, 2021, pp. 484 - 489.
+
+https://in.mathworks.com/matlabcentral/fileexchange/90381-state-of-charge-estimation-function-based-on-kalman-filter
