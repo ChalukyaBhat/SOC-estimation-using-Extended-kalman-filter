@@ -1,5 +1,9 @@
 # SOC-estimation-using-Extended-kalman-filter
 
+
+Run the main.mlx file to obtain view the results of EKF based SOC estimation \
+The EKF_SOC_Estimation.mlx consists of the SOC-estimation-using-Extended-kalman-filter algorithm 
+
 INPUT REQUIRED :
 - Measured current values
 - Measured Terminal voltage values
