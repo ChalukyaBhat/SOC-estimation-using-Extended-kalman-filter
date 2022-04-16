@@ -59,6 +59,6 @@ where,
 ![image](https://user-images.githubusercontent.com/79139644/163666111-ac45b31c-e675-4a20-92bd-937c0383b09f.png) 
 - With the updated values of time step (k+1), the values of SOC(k+2), V1(k+2) and V2(k+2) are predicted and the cycle repeats.
 
-
+# Aknowledgement
 
 F. Khanum, E. Louback, F. Duperly, C. Jenkins, P. J. Kollmeyer, and A. Emadi, “A Kalman Filter Based Battery State of Charge Estimation MATLAB Function,” in 2021 IEEE Transportation Electrification Conference & Expo, 2021, pp. 484 - 489.
